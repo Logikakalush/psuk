@@ -1,0 +1,79 @@
+h1{
+    text-align: center;
+    color: darkslategray;
+    background-color: darkkhaki;
+}
+
+nav{
+    margin: 20px;
+}
+nav a{
+    margin:60px;
+    text-decoration: none;
+    color: brown;
+    border: 5px dotted gray;
+}
+
+header{
+    background-color: darkkhaki;
+    padding: 10px;
+}
+
+body{
+    background-color: white;
+}
+
+main{
+    background-color: darkkhaki;
+} 
+
+h2{
+    text-align: center;
+    color: lavender;
+    background-color: green;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    border: 20px dashed gainsboro;
+    padding: 5px;
+    margin: 5px;
+}
+
+h3{
+    text-align: center;
+    color: rgb(205, 255, 222);
+    background-color: green;
+}
+
+p{
+    border: 5px solid grey;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h5{
+    text-align: center;
+    color: lightgoldenrodyellow;
+    font-size: 25px;
+    background-color: green;
+}
+
+h4{
+    text-align: center;
+    color: lightgreen;
+    font-size: 25px;
+    background-color: green;
+}
+
+footer{
+    background-color: darkkhaki;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+}
